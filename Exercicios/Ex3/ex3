@@ -1,0 +1,30 @@
+a)1,3,5,7__ 
+
+Numeros Impar + 2 = logo proximo valor 9
+
+
+b)2,4,8,16,32,64,__ 
+
+Numero igual multiplicado por 2 = logo proximo sera 128
+
+
+c)0,1,4,9,16,25,36,__
+
+cada numero vai ser igual ao anterior de um numero impar. como exemplo ( 4-1 = 3 , 3+2 = 5 , portanto 5+4 = 9)
+
+Vamos subtrair dois ultimos numeros, entao 36 -25 = 11 , e somando 11+ 2 = 13 , obtendo 36 +13 = 49
+
+
+ d)4,16,,36,64___ 
+ 
+Sequencia de Raiz quadrada de numeros pares , proximo numero 10² = 100
+
+
+ e)1,1,2,3,5,8__ 
+ 
+ soma do numero atual + o anterior. 8+5 = 13.
+
+
+ f)2,10,12,16,17,18,19,___
+
+ numeros que iniciam com a letra "D" , logo proximo sera 200.

@@ -1,0 +1,13 @@
+Quando eu entrar na sala pela primeira vez vou ligar o primeiro interruptor e esperar um pouco para que a lampada se aqueça 
+
+Depois, eu vou sair da sala e desligue o primeiro interruptor.
+
+Quando eu entrar na sala pela segunda vez, eu vou olhar qual lâmpada está acesa. 
+
+Se a primeira lâmpada estiver acesa, então o primeiro interruptor controla a primeira lâmpada. Se a segunda lâmpada estiver acesa, 
+então o primeiro interruptor controla a segunda lâmpada. Se a terceira lâmpada estiver acesa, então o primeiro interruptor controla a terceira lâmpada.
+
+Se nenhuma lâmpada estiver acesa, então o primeiro interruptor controla a lâmpada que não foi acesa nas duas visitas.
+
+
+OBS: utilizei a mesma lógica matématica ao filme quebrando a banca , onde ele trabalha com probabilidades ao ser testado pelo professor.
